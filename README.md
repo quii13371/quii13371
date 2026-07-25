@@ -9,18 +9,3 @@ I'm learning to program in Python 🐍
 I'm learning cybersecurity and pentesting 🔐
 Welcome to my Github 🍧
 Tech Stack 🛠️
-
-Mostrar imagen Mostrar imagen Mostrar imagen Mostrar imagen Mostrar imagen Mostrar imagen Mostrar imagen Mostrar imagen
-
-<div><img align="right" alt="GIF" src="https://github.com/Aurorp1g/Aurorp1g/raw/main/Right_Side.gif" width="300" height="auto" /></div>
-Programming Languages <picture style="margin-right: 10px;"><img src="https://github.com/Aurorp1g/Aurorp1g/raw/main/Statistics.gif" width="30" alt="Statistics"></picture>
-<img align="center" src="https://github-vercel-deployment-seven.vercel.app/api/top-langs?username=quii&show_icons=true&locale=en&layout=compact&langs_count=11&theme=github_dark_dimmed" alt="Quii" width="350" height="250">
-Github Stats <picture style="margin-right: 10px;"><img src="https://github.com/Aurorp1g/Aurorp1g/raw/main/Statistics.gif" width="30" alt="Statistics"></picture>
-
-Mostrar imagen
-
-Github Activity Graph <picture style="margin-right: 10px;"><img src="https://github.com/Aurorp1g/Aurorp1g/raw/main/Statistics.gif" width="30" alt="Statistics"></picture>
-
-Mostrar imagen
-
-Mostrar imagen Mostrar imagen
