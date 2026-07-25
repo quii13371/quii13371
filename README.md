@@ -9,3 +9,7 @@ I'm learning to program in Python 🐍
 I'm learning cybersecurity and pentesting 🔐
 Welcome to my Github 🍧
 Tech Stack 🛠️
+
+Mostrar imagen Mostrar imagen Mostrar imagen Mostrar imagen Mostrar imagen Mostrar imagen Mostrar imagen Mostrar imagen
+
+<div><img align="right" alt="GIF" src="https://github.com/Aurorp1g/Aurorp1g/raw/main/Right_Side.gif" width="300" height="auto" /></div>
