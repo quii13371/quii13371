@@ -4,13 +4,14 @@ A learner exploring the world of computers — Quii <img src="https://github.com
 About Me <picture style="margin-right: 10px;"><img src="https://github.com/Aurorp1g/Aurorp1g/raw/main/about_me.gif" width="40" alt="about me"></picture>
 <div><img align="right" alt="GIF" src="https://github.com/Aurorp1g/Aurorp1g/raw/main/cartoon.webp" width="300" height="auto" /></div>
 Hi everyone, I'm Quii 👋
-I'm new to the world of computers 🖥️
-I'm learning to program in Python 🐍
-I'm learning cybersecurity and pentesting 🔐
-Welcome to my Github 🍧
-Tech Stack 🛠️
 
-Mostrar imagen Mostrar imagen Mostrar imagen Mostrar imagen Mostrar imagen Mostrar imagen Mostrar imagen Mostrar imagen
+I'm new to the world of computers 🖥️
+
+I'm learning to program in Python 🐍
+
+I'm learning cybersecurity and pentesting 🔐
+
+Welcome to my Github 🍧
 
 <div><img align="right" alt="GIF" src="https://github.com/Aurorp1g/Aurorp1g/raw/main/Right_Side.gif" width="300" height="auto" /></div>
 Programming Languages <picture style="margin-right: 10px;"><img src="https://github.com/Aurorp1g/Aurorp1g/raw/main/Statistics.gif" width="30" alt="Statistics"></picture>
